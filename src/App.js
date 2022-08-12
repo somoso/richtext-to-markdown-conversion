@@ -25,8 +25,6 @@ function App() {
         setMkdn(null);
     }
 
-    console.log('markdown', mkdn)
-
     return <div>
         <h1>Rich Text to Markdown Conversion</h1>
         <div>
